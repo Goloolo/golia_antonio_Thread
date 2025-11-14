@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"formazioneBottiglie"},{"p":"<Unnamed>","l":"fusioneVetro"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"processoBottiglie"},{"p":"<Unnamed>","l":"raffreddamentoBottiglie"}];updateSearchResults();
