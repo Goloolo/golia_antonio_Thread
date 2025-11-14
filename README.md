@@ -4,10 +4,10 @@
 Questo progetto Java simula, il processo di produzione di bottiglie di vetro.  
 
 ## Struttura
-- **ProcessoBottiglieDiVetro**: classe padre che coordina le fasi.
-- **FusioneVetroThread**: thread che simula la fusione del vetro.
-- **FormaturaBottiglieThread**: thread che simula la formatura delle bottiglie.
-- **RaffreddamentoThread**: thread che simula il raffreddamento finale.
+- **BottiglieVetro**: classe padre che coordina le fasi.
+- **FusioneVetro**: thread che simula la fusione del vetro.
+- **FormazioneBottiglie**: thread che simula la formatura delle bottiglie.
+- **RaffreddamentoBottiglie**: thread che simula il raffreddamento finale.
 
 
 
